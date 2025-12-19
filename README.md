@@ -1,4 +1,4 @@
-# x86_64 Assembly.sudo apt update && sudo apt upgrade -y Just for fun ;)
+# x86_64 Assembly.Just for fun ;)
 
 Need a assembler:
 ````
