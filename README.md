@@ -1,4 +1,4 @@
-# x86_64 Assembly.Just for fun ;)
+# x86_64 Assembly... Just for fun ;)
 
 Need a assembler:
 ````
